@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @candidate123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @candidate123 & so on. 
+- 👀 I’m interested in ... meeting new people
+- 🌱 I’m currently learning ... codeing
+- 💞️ I’m looking to collaborate on ... most anything
+- 📫 How to reach me ... re.solutions.biz@opayq.com
 
 <!---
 candidate123/candidate123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
